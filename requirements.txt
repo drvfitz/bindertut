@@ -1,3 +1,4 @@
 yfinance==0.2.66
 seaborn==0.13.2
 matplotlib==3.10.0
+pandas==2.2.3
